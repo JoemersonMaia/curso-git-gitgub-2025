@@ -15,4 +15,8 @@ nano comandos.git.txt -> criar arquivo editavel
 git log -> ver todos os commits
 git dff npme_arquivo -> vizualizar o que vai ser adicionado
 
+BRANCH
+git chekout -b nome_chekout -> criar save
+git branch -> mostrar as branchs
+git chekout nome_da_branch -> se mover pelas branchs
 
