@@ -14,4 +14,8 @@ $ git --global user.email"" user.nome"" -> "criar um usuario"
 nano comandos.git.txt -> criar arquivo editavel
 git log -> ver todos os commits
 git dff npme_arquivo -> vizualizar o que vai ser adicionado
-jesus
+
+BRANCH
+git chekout -b nome_chekout -> criar save
+git branch -> mostrar as branchs
+
