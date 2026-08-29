@@ -18,4 +18,7 @@ git dff npme_arquivo -> vizualizar o que vai ser adicionado
 BRANCH
 git chekout -b nome_chekout -> criar save
 git branch -> mostrar as branchs
+git chekout nome_da_branch -> se mover pelas branchs
+git merge nome_arquivo -> mesclar branchs
+
 
