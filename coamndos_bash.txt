@@ -1,0 +1,18 @@
+COMANDOS GERAIS
+ls -> lista arquivos
+cd -> move entre os diretorios
+pwd -> mostra onde estou no pc
+cat -> mostra o que tem no arquivo
+rm -rf -> excluir algoo
+
+COMANDOS GIT
+git init . -> trasforma pasta em um repositorio
+git status -> como esta o repositorio
+git add nome_arquvio -> sinaliza o que vai entrar no commit
+git commit -m "" -> fazer um commit 
+$ git --global user.email"" user.nome"" -> "criar um usuario"
+nano comandos.git.txt -> criar arquivo editavel
+git log -> ver todos os commits
+git dff npme_arquivo -> vizualizar o que vai ser adicionado
+
+
