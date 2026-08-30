@@ -23,11 +23,7 @@ git merge nome_arquivo -> mesclar branchs
 git branch -d secundaria -> apagar branch
         
 
-<<<<<<< HEAD
 alteacoes teo
-=======
-
-
 
 alteracoes ana
->>>>>>> ana
+
