@@ -46,3 +46,4 @@ GitFlow ao final do curso e Visual Studio Code.
 13. git branch -D <nova_branch>
 
 confere la!
+se liga la!
