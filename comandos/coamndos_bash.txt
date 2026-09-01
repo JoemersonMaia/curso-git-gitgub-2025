@@ -28,7 +28,31 @@ git fetch -. trazer branch do git hub para repositorio local
 gitkeep -> fazer pasta fiar visivel
 gitignore -> iginorar arquivos
 
-alteacoes teo
+BRANCH
+git chekout -b nome_chekout -> criar save
+git branch -> mostrar as branchs
+git chekout nome_da_branch -> se mover pelas branchs
+git merge nome_arquivo -> mesclar branchs
+git branch -d secundaria -> apagar branch
+git push origin main -> subir commit
+git pull origin main -> pegar commits do github para repositorio local
+Git clone https → clona fork no repositorio local        
+git fetch -. trazer branch do git hub para repositorio local
+gitkeep -> fazer pasta fiar visivel
+gitignore -> iginorar arquivos
 
-alteracoes ana
 
+Padroes branch
+docs: apenas mudanças de documentação;
+feat: uma nova funcionalidade;
+fix: a correção de um bug;
+perf: mudança de código focada em melhorar performance;
+refactor: mudança de código que não adiciona uma funcionalidade e também não corrigi um bug;
+style: mudanças no código que não afetam seu significado (espaço em branco, formatação, ponto e vírgula, etc);
+test: adicionar ou corrigir testes.
+
+padroes commits
+1 — type ou categoria do commit: podem ser os mesmos utilizados para criar branches e que foram explicados acima.
+2 — scope: onde a alteração foi feita. Aqui, criamos nossos próprios scopes que, na maioria dos casos, refletem o nome de uma funcionalidade.
+3 — subject: um resumo do commit. Deve utilizar o imperativo, como: faz, adiciona, altera, muda e etc.
+4 — body: espaço utilizado para detalhar o que foi feito. É opcional.
