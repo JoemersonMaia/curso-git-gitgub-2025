@@ -22,6 +22,7 @@ git chekout nome_da_branch -> se mover pelas branchs
 git merge nome_arquivo -> mesclar branchs
 git branch -d secundaria -> apagar branch
 git push origin main -> subir commit
+git pull origin main -> pegar commits do github para repositorio local
         
 
 alteacoes teo
