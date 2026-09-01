@@ -23,7 +23,8 @@ git merge nome_arquivo -> mesclar branchs
 git branch -d secundaria -> apagar branch
 git push origin main -> subir commit
 git pull origin main -> pegar commits do github para repositorio local
-        
+Git clone https → clona fork no repositorio local        
+git fetch -. trazer branch do git hub para repositorio local
 
 alteacoes teo
 
