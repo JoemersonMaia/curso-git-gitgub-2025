@@ -16,6 +16,7 @@ Repositório criado durante meus estudos de **Git e GitHub**, com foco em versio
 Aprendi a utilizar padrões de nomenclatura para organizar branches e commits.
 
 [Referência: Padrões de nomenclatura para Branches e Commits](https://medium.com/prolog-app/nossos-padr%C3%B5es-de-nomenclatura-para-branches-e-commits-fade8fd17106)
+
 [Referência: Curso TMW](https://teomewhy.org/courses)
 
 ## Status
